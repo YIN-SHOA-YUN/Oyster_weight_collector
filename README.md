@@ -5,7 +5,7 @@ That's why I start this project.
 ## How to use this project
 First, you need to create a `MySQL` server, and then build a database `oyster`.
 Second,  create a table that contain `weight`,`up_path`,`ahead_path`,`time`,`id`.
---Make sure you have two webcams
+Make sure you have two webcams
 Third create three folders `img`,`camera1` and `camera2`, and `img` is used to save two camera's photos(tmp).
 
 ## Then you need to pip some package that we will use
